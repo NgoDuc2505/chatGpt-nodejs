@@ -10,4 +10,12 @@ as soon as completely clone my project, you can follow these steps:
 3: npm start
 
 
+[Syntax]: 
+
+img@ : head to generate img .
+
+chat@ : when you're at img generate mode and you want to return chat mode.
+
+exit : to end program.
+
 powered by openai.com
